@@ -6,4 +6,4 @@ Esta frase se considera *incorrecta* y se tiene que afirmar como `frase correcta
 Esta frase se considera como un ```texto importante```
 El número par nunca se convertirá en número > impar
 La frase está mal ~~dicha~~
-
+> Para citar autores
